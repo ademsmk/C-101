@@ -1,0 +1,20 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+
+class Solution {
+    static void Main(String[] args) {
+        // Girişinizi tutmak için 'input String' adında bir değişken bildirin.
+        String inputString; 
+        
+        //  tam bir girdi satırı okuyun ve onu girdi_string değişkenimize kaydedin.
+        inputString = Console.ReadLine(); 
+        
+        // "Merhaba, Dünya" yazan bir dize değişmezi yazdırın.
+        Console.WriteLine("Hello, World.");
+       Console.WriteLine("Welcome to 30 Days of Code!");
+        
+       
+    }
+}
+
